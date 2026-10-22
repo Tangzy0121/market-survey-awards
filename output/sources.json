@@ -323,5 +323,51 @@
       "start": 2,
       "note": "共 31 个分集；首集 17 秒为资料展示，P2—P31 为 30 段答辩。组号沿用发布者命名，存在缺号，不表示覆盖所有决赛队伍。未登录时页面显示 30 秒试看提示。"
     }
+  ],
+  "scope": {
+    "target_cohort": 2027,
+    "reference_years": [
+      2026,
+      2025,
+      2024
+    ],
+    "year_basis": "答辩年份",
+    "confirmed_by_user": "2026-10-22"
+  },
+  "acquisition_leads_checked": "2026-10-22",
+  "acquisition_leads": [
+    {
+      "target_year": 2025,
+      "source": "https://zhuanlan.zhihu.com/p/2013640237146980563",
+      "share": "https://pan.quark.cn/s/ef983dcfde41",
+      "observed_archive": "市调大赛作品（国赛优秀作品）.7z",
+      "displayed_size": "231.1M",
+      "status": "目录与文件存在；2025 届次和全文仅为来源声称，未解压核验；下载要求客户端，出现登录/功能受限提示"
+    },
+    {
+      "target_year": 2026,
+      "source": "https://www.bilibili.com/video/BV1CYe76VEJK/",
+      "published": "2026-09-15",
+      "status": "发布者声称附完整作品，公众号领取；未取得报告正文或网盘直链"
+    },
+    {
+      "source": "https://pan.quark.cn/s/862e06ce02dc",
+      "displayed_files": 831,
+      "displayed_size": "23.7G",
+      "status": "主要可见年份目录为2020—2023；2025作品信息PDF已预览为36页获奖公告，非完整报告集"
+    },
+    {
+      "source": "https://ex59573j43x.feishu.cn/docx/WSfgdF3z8of25pxAIr2caC0NnFh",
+      "status": "标题声称2020—2025年500份报告；正文仅引导公众号领取，未见文件清单或直接下载链接"
+    },
+    {
+      "source": "https://bbs.pinggu.org/thread-16503890-1-1.html",
+      "displayed_price_cny": 39,
+      "status": "收费；2026年1月发布，公开作品年份目录为2020—2023，不作为2025/2026原文入口推荐"
+    },
+    {
+      "source": "https://www.goofish.com/search?q=%E5%B8%82%E8%B0%83%E5%A4%A7%E8%B5%9B%202026%20%E5%9B%BD%E5%A5%96%E4%BD%9C%E5%93%81",
+      "status": "本次访问要求登录，未核实具体商品"
+    }
   ]
 }
