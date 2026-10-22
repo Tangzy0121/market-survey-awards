@@ -1,0 +1,6 @@
+output/files/
+scratch/
+*.pdf
+*.docx
+*.zip
+__pycache__/

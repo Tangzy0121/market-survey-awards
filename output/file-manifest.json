@@ -1,0 +1,67 @@
+[
+  {
+    "file": "files/2024-appendix-01.docx",
+    "bytes": 7755935,
+    "sha256": "44b114dd4dd597d478dca791a6071c20ac123a7581dc8ccfe13d167abab031a8"
+  },
+  {
+    "file": "files/2024-appendix-02.docx",
+    "bytes": 1567013,
+    "sha256": "a9255c0c666d3937740e0bb1565233865ef58a2033d99656a8d3e707dab7b3c3"
+  },
+  {
+    "file": "files/2024-appendix-03.docx",
+    "bytes": 108997,
+    "sha256": "077f35bc85c6a587a03c56557550fdcf7f143ce5c7f7c9210a90ced8d408098f"
+  },
+  {
+    "file": "files/2024-appendix-04.docx",
+    "bytes": 1571356,
+    "sha256": "3ee9324ab78db37db11026e716fc11e384e0de5884220093e055d834ffed3226"
+  },
+  {
+    "file": "files/2024-appendix-05.docx",
+    "bytes": 2231125,
+    "sha256": "36bf920f3c31764b7b936d601dcf29b497572144829bda37667ca3b039ed0dfd"
+  },
+  {
+    "file": "files/2024-appendix-06.docx",
+    "bytes": 4789352,
+    "sha256": "85d939b7bd61f3d1892a5aadba72407b3f31931b3779dd09ea360c4a24494974"
+  },
+  {
+    "file": "files/2024-appendix-07.docx",
+    "bytes": 5389246,
+    "sha256": "ab45628daa3ef37f1eebf20fed42ea99e873f9597dbb365fa17d82108bb3c17b"
+  },
+  {
+    "file": "files/2024-appendix-08.docx",
+    "bytes": 688150,
+    "sha256": "6591a403b1f7e04bf2033b1f5c2235640474c5271db7667b97c77de7c3365413"
+  },
+  {
+    "file": "files/2024-appendix-09.docx",
+    "bytes": 1520462,
+    "sha256": "7dd4c246d220c35deca3aa3dfafb580057f56e3040733c3842e256153f38489b"
+  },
+  {
+    "file": "files/2024-appendix-10.docx",
+    "bytes": 6182098,
+    "sha256": "a7eb6915bdfc144dad40d821e6f175f2e52b71a9f0cbed09866b9e3f795a7228"
+  },
+  {
+    "file": "files/2024-official-appendices.zip",
+    "bytes": 60965861,
+    "sha256": "29b175794457a02d083f52c5e088bc7e12eb44970208d1dd07ddc3b5690558cc"
+  },
+  {
+    "file": "files/2024-tongrentang-report.docx",
+    "bytes": 12208783,
+    "sha256": "66b950a9ca1b56f9491018d27b002a2c969b6427d81a1ac1055da1173e2eedfa"
+  },
+  {
+    "file": "files/2024-tongrentang-report.pdf",
+    "bytes": 3045953,
+    "sha256": "510afdaba07922bc54d92e8eea08e8c4d32b85d13dd97176e0a1a47bf2b193f7"
+  }
+]
