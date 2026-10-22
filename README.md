@@ -2,10 +2,6 @@
 
 全国大学生市场调查与分析大赛公开资料的本地阅读页。
 
-## 在线阅读
-
-[打开公开阅读页](https://tangzy0121.github.io/market-survey-awards/)，无需 GitHub 登录。报告原文可逐页阅读，附录可直接下载；B 站视频可能要求平台登录。
-
 ## 下载完整阅读包
 
 前往 [最新 Release](https://github.com/Tangzy0121/market-survey-awards/releases/latest)，下载 `market-survey-awards-2024-2026.zip`，解压后双击 `market-survey-awards/index.html`。
@@ -35,7 +31,5 @@
 ## 仓库与完整包
 
 仓库保存 [HTML 阅读页](output/index.html)、来源清单、文档校验信息和页面预览。按工作区约定，PDF、DOCX、ZIP 和逐页图像放在 Release 下载包中，不写入 Git 历史。因此单独克隆仓库后，报告及附录需从完整包取得。
-
-公开网页由 GitHub Actions 部署：下载并校验固定版本的 Release 阅读包，将当前仓库中的界面文件与原文资源组合后发布至 GitHub Pages。更新页面后推送到 `main` 即会重新部署，也可手动运行 `Publish reading room`。
 
 ![阅读页预览](output/preview.png)

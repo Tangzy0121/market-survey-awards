@@ -4,4 +4,3 @@ scratch/
 *.docx
 *.zip
 __pycache__/
-_site/
